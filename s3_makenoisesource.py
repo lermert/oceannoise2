@@ -1,4 +1,4 @@
-#  INPUT
+# INPUT
 noise_source_output_file = "microseisms/source1.h5"
 grid_file = "sourcegrid_3D.npy"
 src_model_file = "oceanmodels/pressure_PSD_2007-12-11-00.npz"
